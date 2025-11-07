@@ -3,9 +3,9 @@
 <rect x="-549" y="-162" width="1600" height="900" fill="#FBDC46"/>
 <!-- <rect x="-8" y="-26" width="529" height="656" rx="39" fill="#0D0C0C"/>
 <rect x="-20" y="-34" width="529" height="656" rx="39" fill="#FFFAFA"/> -->
-<rect width="490" height="260" rx="19" fill="#FBDC46"/>
+<!-- <rect width="490" height="260" rx="19" fill="#FBDC46"/> -->
 <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="490" height="260">
-<rect width="490" height="260" rx="19" fill="#FBDC46"/>
+<!-- <rect width="490" height="260" rx="19" fill="#FBDC46"/> -->
 </mask>
 <g mask="url(#mask0_0_1)">
 <path d="M469.382 157.89L467.694 131.697L453.844 118.933L465.973 105" stroke="#010101" stroke-width="4"/>
