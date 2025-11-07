@@ -114,14 +114,14 @@ footer {
     text-decoration: none;
 }
 
-@media (hover: hover) {
-    .btn:hover {
-    color: #FBDC46;
-    transition: 0.3s;
-}
-
 @media (max-width: 500px){
     .blog-card {
         margin: 0 1em;
     }
+}
+
+@media (hover: hover) {
+    .btn:hover {
+    color: #FBDC46;
+    transition: 0.3s;
 }
