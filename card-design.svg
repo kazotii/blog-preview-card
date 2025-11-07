@@ -5,7 +5,7 @@
 <rect x="-20" y="-34" width="529" height="656" rx="39" fill="#FFFAFA"/> -->
 <rect width="490" height="260" rx="19" fill="#FBDC46"/>
 <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="490" height="260">
-<!-- <rect width="490" height="260" rx="19" fill="#FBDC46"/> -->
+<rect width="490" height="260" rx="19" fill="#FBDC46"/>
 </mask>
 <g mask="url(#mask0_0_1)">
 <path d="M469.382 157.89L467.694 131.697L453.844 118.933L465.973 105" stroke="#010101" stroke-width="4"/>
@@ -14,7 +14,7 @@
 <path d="M380.382 246.89L378.694 220.697L364.844 207.933L376.973 194" stroke="#010101" stroke-width="4"/>
 </g>
 <mask id="mask1_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="490" height="260">
-<rect width="490" height="260" rx="19" fill="#FBDC46"/>
+<!-- <rect width="490" height="260" rx="19" fill="#FBDC46"/> -->
 </mask>
 <g mask="url(#mask1_0_1)">
 <rect x="363" y="262.365" width="182.876" height="82.1355" transform="rotate(-45.0233 363 262.365)" fill="black"/>
