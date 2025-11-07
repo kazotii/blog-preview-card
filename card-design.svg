@@ -1,9 +1,9 @@
 <svg width="490" height="260" viewBox="0 0 490 260" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="490" height="260" fill="#1E1E1E"/>
-<!-- <rect x="-549" y="-162" width="1600" height="900" fill="#FBDC46"/> -->
+<rect x="-549" y="-162" width="1600" height="900" fill="#FBDC46"/>
 <!-- <rect x="-8" y="-26" width="529" height="656" rx="39" fill="#0D0C0C"/>
 <rect x="-20" y="-34" width="529" height="656" rx="39" fill="#FFFAFA"/> -->
-<!-- <rect width="490" height="260" rx="19" fill="#FBDC46"/> -->
+<rect width="490" height="260" rx="19" fill="#FBDC46"/>
 <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="490" height="260">
 <rect width="490" height="260" rx="19" fill="#FBDC46"/>
 </mask>
