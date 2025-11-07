@@ -118,6 +118,9 @@ footer {
     .blog-card {
         margin: 0 1em;
     }
+      .card-design {
+    margin: -1em 0 0 0;
+    }
 }
 
 @media (hover: hover) {
@@ -125,3 +128,4 @@ footer {
     color: #FBDC46;
     transition: 0.3s;
 }
+
