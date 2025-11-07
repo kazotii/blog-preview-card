@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('./fonts/Poppins-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./fonts/Poppins-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./fonts/Poppins-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./fonts/Inter-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+    background-color: #fbdc46;
+    font-family: 'Inter', 'Poppins';
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog-card {
+    position: relative;
+    width: 400px;
+    background: #fffafa;
+    border-radius: 39px;
+    box-shadow: 9px 9px 0 #0d0c0c;
+    padding: 32px 24px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.card-design {
+    border-radius: 19px;
+    width: 100%;
+    display: block;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    gap: 13px;
+}
+
+.theme {
+    display: inline-block;
+    background-color: #fbdc46;
+    color: #000000;
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 0.9em;
+    padding: 4px 16px;
+    border-radius: 6px;
+}
+
+.date {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 1em; 
+    color: #000000;
+}
+
+.big-title {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 1.8em;
+    color: #000000;
+}
+
+.text {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #747474;
+    line-height: 1.6;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.btn {
+    font-family: 'Poppins';
+    font-weight: 800;
+    color: #000000;
+    background-color: #ffffff;
+    text-decoration: none;
+}
+
+@media (hover: hover) {
+    .btn:hover {
+    color: #FBDC46;
+    transition: 0.3s;
+}
+}
